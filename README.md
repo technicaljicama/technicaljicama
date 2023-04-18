@@ -1,7 +1,6 @@
-### Hi there 👋 i am PSVita-Dev, also known as azubisinmir or technicaljicama
+### Hi there 👋 i am PSVita-Dev, also known as technicaljicama
 
 
-- 🔭 I’m currently working on random stuff, you might see some new repos soon
+- 🔭 I’m currently working on a Godot engine port for the Sony PSP!
 - 🌱 I’m currently learning c++,c
-- 💬 Ask me about tiktok api stuff
 - Contact discord : technicaljicama#0016
