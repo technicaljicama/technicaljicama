@@ -1,6 +1,5 @@
 ### Hi there 👋 i am PSVita-Dev, also known as technicaljicama
 
 
-- 🔭 I’m currently working on a Godot engine port for the Sony PSP!
-- 🌱 I’m currently learning c++,c
+- 🔭 I’m currently working on "OGMr", more info soon!
 - Contact discord : technicaljicama#0016
