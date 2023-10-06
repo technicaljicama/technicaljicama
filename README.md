@@ -3,4 +3,4 @@
 - I am interested in C/C++ coding
 - Getting games to run on consoles is very interesting for me.
 - Contact via discord : technicaljicama#0016
-- Profile picture conatins: mattkc, c++ logo and tux logo by Larry Ewing
+- Profile picture conatins: mattkc, c++ logo and the Tux logo by Larry Ewing
